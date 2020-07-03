@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    background-color: #01143c;
+    height: 250px;
+    padding: 20px;
+}
+.container {
+    color: white;
+    margin: 20px 50px;
+}
+.about {
+    float: left;
+    margin-right: 70px;
+}
+
+.logo {
+    font-size: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.tentang-isi {
+    width: 370px;
+    text-align: justify;
+}
+
+.logo-waktu {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.time {
+    float: left;
+    margin-left: 60px;
+}
+
+.hari {
+    float: left;   
+}
+
+.hari li {
+    list-style: none;
+    padding-bottom: 7px;
+}
+
+.jam {
+    float: left;
+    padding-left: 140px;
+}
+.jam li {
+    list-style: none;
+    padding-bottom: 7px;
+}
+
+.hubungi {
+    float: right;
+    padding-right: 30px;
+}
+
+.sosmed {
+    margin-top: 30Px;
+}
+
+.btn {
+    color: white;
+    padding-right: 15px;
+}
